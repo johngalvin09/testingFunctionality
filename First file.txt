@@ -3,3 +3,5 @@ This is the second line of text that I am adding.
 Third Lines
 
 This is an attempt to edit files, see the differnces etc. 
+
+More lines added
